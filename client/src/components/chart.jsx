@@ -76,7 +76,6 @@ class Chart extends Component {
               data={this.state.data}
             />
           </div>
-          <h2> Data Loading</h2>
         </div>
       </LoadingOverlay>
     );
